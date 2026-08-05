@@ -1,0 +1,15 @@
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_1/bin/Debug/net10.0/Lesson_1
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_1/bin/Debug/net10.0/Lesson_1.deps.json
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_1/bin/Debug/net10.0/Lesson_1.runtimeconfig.json
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_1/bin/Debug/net10.0/Lesson_1.dll
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_1/bin/Debug/net10.0/Lesson_1.pdb
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_1/obj/Debug/net10.0/Lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_1/obj/Debug/net10.0/Lesson_1.AssemblyInfoInputs.cache
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_1/obj/Debug/net10.0/Lesson_1.AssemblyInfo.cs
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_1/obj/Debug/net10.0/Lesson_1.csproj.CoreCompileInputs.cache
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_1/obj/Debug/net10.0/Lesson_1.sourcelink.json
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_1/obj/Debug/net10.0/Lesson_1.dll
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_1/obj/Debug/net10.0/refint/Lesson_1.dll
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_1/obj/Debug/net10.0/Lesson_1.pdb
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_1/obj/Debug/net10.0/Lesson_1.genruntimeconfig.cache
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_1/obj/Debug/net10.0/ref/Lesson_1.dll
