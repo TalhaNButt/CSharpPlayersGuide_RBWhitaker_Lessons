@@ -1,0 +1,15 @@
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_2_Variables/bin/Debug/net10.0/Lesson_2_Variables
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_2_Variables/bin/Debug/net10.0/Lesson_2_Variables.deps.json
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_2_Variables/bin/Debug/net10.0/Lesson_2_Variables.runtimeconfig.json
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_2_Variables/bin/Debug/net10.0/Lesson_2_Variables.dll
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_2_Variables/bin/Debug/net10.0/Lesson_2_Variables.pdb
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_2_Variables/obj/Debug/net10.0/Lesson_2_Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_2_Variables/obj/Debug/net10.0/Lesson_2_Variables.AssemblyInfoInputs.cache
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_2_Variables/obj/Debug/net10.0/Lesson_2_Variables.AssemblyInfo.cs
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_2_Variables/obj/Debug/net10.0/Lesson_2_Variables.csproj.CoreCompileInputs.cache
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_2_Variables/obj/Debug/net10.0/Lesson_2_Variables.sourcelink.json
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_2_Variables/obj/Debug/net10.0/Lesson_2_Variables.dll
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_2_Variables/obj/Debug/net10.0/refint/Lesson_2_Variables.dll
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_2_Variables/obj/Debug/net10.0/Lesson_2_Variables.pdb
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_2_Variables/obj/Debug/net10.0/Lesson_2_Variables.genruntimeconfig.cache
+/Users/talhabutt/Documents/C#_Lessons_CSharpPlayersGuide_RBWhitaker/Lesson_2_Variables/obj/Debug/net10.0/ref/Lesson_2_Variables.dll
